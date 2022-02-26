@@ -133,12 +133,12 @@ int main(int argc, char *argv[])
 			renderer->score4 = 1;
 			std::cout << "Score : " << renderer->score1 + renderer->score2 + renderer->score3 + renderer->score4 + renderer->score5 << std::endl;
 		}
-
+	
 		if (renderer->ball5hit == true) {
 			renderer->score5 = 1;
 			std::cout << "Score : " << renderer->score1 + renderer->score2 + renderer->score3 + renderer->score4 + renderer->score5 << std::endl;
 		}
-
+		
 
 		// if the player gathers all 5 balls end the game.
 		if (renderer->score1 + renderer->score2 + renderer->score3 + renderer->score4 + renderer->score5 == 5) {

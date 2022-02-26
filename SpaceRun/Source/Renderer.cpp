@@ -587,7 +587,8 @@ void Renderer::UpdateBall() {
 	// collision with fifth ball
 	// 111.501 55.7348 -104.84 center
 	// 104.547 60 - 101.84 dexi ftero
-	if ((craft_position.x >= 103 && craft_position.x <= 113) && (craft_position.y >= 54 && craft_position.y <= 62) && (craft_position.z <= -96 && craft_position.z >= -106)) {
+	// 110.003 57.6275 -90.134
+	if ((craft_position.x >= 103 && craft_position.x <= 113) && (craft_position.y >= 51 && craft_position.y <= 62) && (craft_position.z <= -83 && craft_position.z >= -106)) {
 		ball5hit = true;
 	}
 

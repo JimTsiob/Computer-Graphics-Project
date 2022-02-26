@@ -1,0 +1,35 @@
+﻿  Renderer.cpp
+G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\Source\Renderer.cpp(775,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\Source\Renderer.cpp(1187,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\Source\Renderer.cpp(1191,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\Source\Renderer.cpp(1196,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\Source\Renderer.cpp(1200,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Generating Code...
+  Lab7.vcxproj -> G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\x64\Debug\SpaceRun.exe
+  copy "G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\*.dll" "G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\x64\Debug\"
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\glew32.dll
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\libjpeg-9.dll
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\libpng16-16.dll
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\libtiff-5.dll
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\libwebp-4.dll
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\SDL2.dll
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\SDL2_image.dll
+  G:\AUEB\7th semester\Computer Graphics\Assignment\github project\final project\Computer-Graphics-Project\SpaceRun\3rd party\bin\zlib1.dll
+          8 file(s) copied.
