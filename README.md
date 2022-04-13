@@ -3,5 +3,5 @@ A third person game that involves driving a spaceship in a specific course takin
 
 ## Instructions
 1. Clone the repository to your computer.
-2. Run .sln file with Visual studio
+2. Run SpaceRun.sln with Visual studio
 3. Run the debugger and enjoy the game!
